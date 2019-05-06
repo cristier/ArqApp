@@ -1,2 +1,2 @@
 # ArqApp
-Ejercicios realizados con DjangoRest y Angulas
+Ejercicios realizados con DjangoRest y Angular
